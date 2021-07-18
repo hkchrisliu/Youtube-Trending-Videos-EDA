@@ -1,4 +1,4 @@
-# Youtube-Trending-Videos-EDA
+# Youtube-Trending-Videos-EDA 🎥
 1. Problem Framing
 2. Data Preparation
 3. Exploratory Analysis
